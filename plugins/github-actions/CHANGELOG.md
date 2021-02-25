@@ -1,5 +1,18 @@
 # @backstage/plugin-github-actions
 
+## 0.3.5
+
+### Patch Changes
+
+- 04667f571: Use Breadcrumbs from @backstage/core
+- Updated dependencies [12d8f27a6]
+- Updated dependencies [2a271d89e]
+- Updated dependencies [8a1566719]
+- Updated dependencies [02816ecd7]
+  - @backstage/catalog-model@0.7.3
+  - @backstage/core@0.6.4
+  - @backstage/plugin-catalog-react@0.1.1
+
 ## 0.3.4
 
 ### Patch Changes
